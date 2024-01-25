@@ -4,6 +4,7 @@ Contains notebooks and notes from Machine Learning Specialization by deeplearnin
 
 ## Supervised Machine Learning: Regression and Classification
 ### Week 3
+Notes: https://www.notion.so/Machine-Learning-Maths-317e26c20162485ea355fd781954075d?pvs=4
 
 * Classification: Logistic Regression
 
