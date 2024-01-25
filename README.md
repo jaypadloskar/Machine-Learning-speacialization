@@ -13,6 +13,14 @@ https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3
 
 https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3_Lab02_Sigmoid_function_Soln.ipynb
 
+* Decision Boundary
+
+https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3_Lab03_Decision_Boundary_Soln.ipynb
+
+* Logistic Loss
+
+https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3_Lab04_LogisticLoss_Soln.ipynb
+
 
 
 
