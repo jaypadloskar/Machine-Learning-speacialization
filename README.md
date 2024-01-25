@@ -4,9 +4,14 @@ Contains notebooks and notes from Machine Learning Specialization by deeplearnin
 
 ## Supervised Machine Learning: Regression and Classification
 ### Week 3
-Classification: Logistic Regression
+
+* Classification: Logistic Regression
 
 https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3_Lab01_Classification_Soln.ipynb
+
+* Sigmoid function
+
+https://github.com/jaypadloskar/Machine-Learning-speacialization/blob/main/C1_W3_Lab02_Sigmoid_function_Soln.ipynb
 
 
 
